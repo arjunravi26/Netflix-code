@@ -75,7 +75,7 @@ function Rowpost(props) {
                         <div className='video'>
                           <Youtube className='poster' opts={opts} videoId={urlId.key}></Youtube>
                         </div> : <div className='video'>
-                          <h3 className='poster' id='error'>"No video  Available"</h3>
+                          <h3 className='poster' id='error'>"No Trailer  &nbsp;Available"</h3>
                         </div>
 
                     }
